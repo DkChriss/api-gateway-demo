@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: gateway-demo
+server:
+  protocol: http
+  server: localhost
+  port: 8080
